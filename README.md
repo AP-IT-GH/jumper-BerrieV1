@@ -118,3 +118,5 @@ Deactiveer de conda environment met het volgende commando:
 ```
 conda deactivate
 ```
+
+Project gemaakt door Quinten Nelen en Bernd Van Loon
